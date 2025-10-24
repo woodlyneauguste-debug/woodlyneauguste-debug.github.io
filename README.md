@@ -59,7 +59,7 @@ Voici les éléments que vous devriez généralement personnaliser dans votre te
 Recherchez la balise `<title>` dans le fichier HTML principal. Cette balise détermine ce qui apparaîtra dans l'onglet de votre navigateur.
 
 ```html
-<title>Votre titre ici</title>
+<title>Votre titre ici</Woodlyne Auguste>
 ```
 
 #### 2. Votre nom et informations personnelles
